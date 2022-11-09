@@ -97,7 +97,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://github.com/ranxm2006/ran/blob/main/plugin/py_bilibili1.json"
+		"ext": "https://github.com/ranxm2006/ran/blob/main/plugin/py_bilibili1.py"
 	}, {
 		"key": "py_gimytv",
 		"name": "剧迷",
